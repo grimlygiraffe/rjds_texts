@@ -1,0 +1,9 @@
+#+TITLE: Plan syllabus
+
+1. Bias and algorithmic injustice - Barocas & Zimmermann
+2. On generalisations and stereotypes - Schauer
+3. On Discrimination and Machine bias - Clinton Castro
+4. On Discrimination - Eidelson 
+5. On democratising platforms - Ugur & Donahue
+6. On copyright - 
+7. Review - 
